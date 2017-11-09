@@ -14,6 +14,7 @@
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    // This is develop branch, i want to test merge branch from develop to master.
     // Override point for customization after application launch.
     return YES;
 }
